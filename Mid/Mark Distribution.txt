@@ -1,0 +1,6 @@
+Project -> 40
+Group -> 4 [Must]
+Quiz -> 20
+Lab Task -> 30
+Attendance -> 5 [Total 6 Lab Task -> 3 Online & 3 Offline]
+Performance -> 5
